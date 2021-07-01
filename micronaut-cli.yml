@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: zephyr.application
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: maven
+features: [annotation-api, app-name, data, data-jdbc, http-client, jdbc-hikari, kotest, kotlin, kotlin-application, log4j2, maven, mysql, netty-server, readme, shade, testcontainers, yaml]
